@@ -1,0 +1,54 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": "99.99",
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://wallpapers.com/images/featured/guitar-vtvn8855v2zafbtj.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano Basics",
+      "slug": "piano-basics",
+      "description": "Learn the basics of playing piano with our comprehensive beginner's course.",
+      "price": "99.99",
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "https://thumbs.dreamstime.com/b/piano-5482870.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Violin Mastery",
+      "slug": "violin-mastery",
+      "description": "Master the art of playing violin with our advanced course.",
+      "price": "149.99",
+      "instructor": "Emily Brown",
+      "isFeatured": true,
+      "image": "https://www.collinsdictionary.com/images/full/violin_47093287_1000.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Drumming Essentials",
+      "slug": "drumming-essentials",
+      "description": "Get started with drumming with our essential beginner's course.",
+      "price": "89.99",
+      "instructor": "Michael Lee",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8"
+    },
+    {
+      "id": 5,
+      "title": "Advanced Music Theory",
+      "slug": "advanced-music-theory",
+      "description": "Deepen your understanding of music theory with our advanced course.",
+      "price": "199.99",
+      "instructor": "Sophia Wilson",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1495406277915-62ef3c47a3ad"
+    }
+  ]
+}
